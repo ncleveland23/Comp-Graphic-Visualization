@@ -1,0 +1,10 @@
+﻿  Source.cpp
+C:\Users\nclev\OneDrive\Desktop\OpenGLProjects\3DScene\3DScene\Source.cpp(153,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\nclev\OneDrive\Desktop\OpenGLProjects\3DScene\3DScene\Source.cpp(1068,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\nclev\OneDrive\Desktop\OpenGLProjects\3DScene\3DScene\Source.cpp(1069,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\nclev\OneDrive\Desktop\OpenGLProjects\3DScene\3DScene\Source.cpp(1073,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\nclev\OneDrive\Desktop\OpenGLProjects\3DScene\3DScene\Source.cpp(1074,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\nclev\OneDrive\Desktop\OpenGLProjects\3DScene\3DScene\Source.cpp(1076,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\nclev\OneDrive\Desktop\OpenGLProjects\3DScene\3DScene\Source.cpp(1077,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\nclev\OneDrive\Desktop\OpenGLProjects\3DScene\3DScene\Source.cpp(1087,32): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  3DScene.vcxproj -> C:\Users\nclev\OneDrive\Desktop\OpenGLProjects\3DScene\Debug\3DScene.exe
